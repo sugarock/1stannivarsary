@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37562b39ff933b245ac2f35d87edbcd6, type: 3}
+  m_Name: Extend4-1
+  m_EditorClassIdentifier: 
+  m_prefab: {fileID: 2731507937651307209, guid: 8b6d21a7240473a43a6faab685d03b51,
+    type: 3}
+  BlendShapeName: Extend4
+  Preset: 0
+  Values:
+  - RelativePath: Mesh/Mesh_Face
+    Index: 4
+    Weight: 21.4
+  - RelativePath: Mesh/Mesh_Face
+    Index: 6
+    Weight: 68.6
+  - RelativePath: Mesh/Mesh_Face
+    Index: 7
+    Weight: 21.2
+  - RelativePath: Mesh/Mesh_Face
+    Index: 8
+    Weight: 80.6
+  - RelativePath: Mesh/Mesh_Face
+    Index: 12
+    Weight: 13
+  - RelativePath: Mesh/Mesh_Face
+    Index: 13
+    Weight: 13
+  - RelativePath: Mesh/Mesh_Face
+    Index: 18
+    Weight: 20
+  - RelativePath: Mesh/Mesh_Face
+    Index: 21
+    Weight: 65.4
+  - RelativePath: Mesh/Mesh_Face
+    Index: 24
+    Weight: 42.7
+  - RelativePath: Mesh/Mesh_Face
+    Index: 25
+    Weight: 5.4
+  - RelativePath: Mesh/Mesh_Face
+    Index: 30
+    Weight: 12.1
+  - RelativePath: Mesh/Mesh_Face
+    Index: 31
+    Weight: 3.3
+  - RelativePath: Mesh/Mesh_Face
+    Index: 33
+    Weight: 50.1
+  MaterialValues: []
+  IsBinary: 0

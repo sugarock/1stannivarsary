@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37562b39ff933b245ac2f35d87edbcd6, type: 3}
+  m_Name: Extend1
+  m_EditorClassIdentifier: 
+  m_prefab: {fileID: 2731507937651307209, guid: 8b6d21a7240473a43a6faab685d03b51,
+    type: 3}
+  BlendShapeName: Extend1
+  Preset: 0
+  Values:
+  - RelativePath: Mesh/Mesh_Face
+    Index: 6
+    Weight: 78.5
+  - RelativePath: Mesh/Mesh_Face
+    Index: 7
+    Weight: 100
+  - RelativePath: Mesh/Mesh_Face
+    Index: 8
+    Weight: 100
+  - RelativePath: Mesh/Mesh_Face
+    Index: 12
+    Weight: 49
+  - RelativePath: Mesh/Mesh_Face
+    Index: 13
+    Weight: 49
+  - RelativePath: Mesh/Mesh_Face
+    Index: 21
+    Weight: 70.3
+  - RelativePath: Mesh/Mesh_Face
+    Index: 23
+    Weight: 5.6
+  - RelativePath: Mesh/Mesh_Face
+    Index: 24
+    Weight: 86
+  - RelativePath: Mesh/Mesh_Face
+    Index: 30
+    Weight: 36.1
+  - RelativePath: Mesh/Mesh_Face
+    Index: 33
+    Weight: 61.6
+  MaterialValues: []
+  IsBinary: 0

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1506855854, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: VRCExParam_NYN
+  m_EditorClassIdentifier: 
+  parameters:
+  - name: VRCEmote
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+  - name: VRCFaceBlendH
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: MenuFacial
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+  - name: MenuFacialEff
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+  - name: MenuFacialSwitch
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+  - name: MenuFacialEffSwitch
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+  - name: MenuFacialMouthSwitch
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+  - name: ValueBrow
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: ValueEye
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: ValueMouthX
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: ValueMouthY
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: ValueTongue
+    valueType: 1
+    saved: 1
+    defaultValue: 0

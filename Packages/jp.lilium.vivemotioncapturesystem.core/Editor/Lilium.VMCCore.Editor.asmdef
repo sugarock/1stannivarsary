@@ -1,0 +1,23 @@
+{
+    "name": "Lilium.VMCCore.Editor",
+    "references": [
+        "GUID:22cb0b24ab401a342b8226581018111b",
+        "GUID:5968b559b88dea147a66599e0fbdea1b",
+        "GUID:b9b5c2b656785794880938bf106355db",
+        "GUID:6a6dd0d9bf769e54a91f84fa406b12fc",
+        "GUID:0be28fa46483a1a428c2bf4dd2d1d911",
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:478a2357cc57436488a56e564b08d223"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

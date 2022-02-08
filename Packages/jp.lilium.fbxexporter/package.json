@@ -1,0 +1,15 @@
+{
+  "name": "jp.lilium.fbxexporter",
+  "displayName": "Runtime FBX Exporter",
+  "version": "0.1.0",
+  "dependencies": {
+    "com.unity.timeline": "1.0.0",
+    "com.autodesk.fbx": "2.0.1-preview.1"
+  },
+  "unity": "2018.3",
+  "unityRelease": "4f1",
+  "keywords": [
+    "fbx",
+    "animation"
+  ]
+}

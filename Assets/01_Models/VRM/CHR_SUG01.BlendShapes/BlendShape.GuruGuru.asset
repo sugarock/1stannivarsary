@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37562b39ff933b245ac2f35d87edbcd6, type: 3}
+  m_Name: BlendShape.GuruGuru
+  m_EditorClassIdentifier: 
+  m_prefab: {fileID: 0}
+  BlendShapeName: GuruGuru
+  Preset: 0
+  Values:
+  - RelativePath: Mesh/Eff_facial
+    Index: 0
+    Weight: 100
+  - RelativePath: Mesh/Eff_facial
+    Index: 2
+    Weight: 100
+  - RelativePath: Mesh/Eff_facial
+    Index: 3
+    Weight: 100
+  - RelativePath: Mesh/Eff_facial
+    Index: 10
+    Weight: 100
+  - RelativePath: Mesh/Mesh_Face
+    Index: 4
+    Weight: 100
+  - RelativePath: Mesh/Mesh_Face
+    Index: 9
+    Weight: 57.9
+  - RelativePath: Mesh/Mesh_Face
+    Index: 10
+    Weight: 44.2
+  - RelativePath: Mesh/Mesh_Face
+    Index: 18
+    Weight: 100
+  - RelativePath: Mesh/Mesh_Face
+    Index: 23
+    Weight: 30.4
+  - RelativePath: Mesh/Mesh_Face
+    Index: 33
+    Weight: 50
+  MaterialValues: []
+  IsBinary: 0

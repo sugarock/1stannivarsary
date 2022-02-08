@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37562b39ff933b245ac2f35d87edbcd6, type: 3}
+  m_Name: BlendShape.Die
+  m_EditorClassIdentifier: 
+  m_prefab: {fileID: 0}
+  BlendShapeName: Die
+  Preset: 0
+  Values:
+  - RelativePath: Mesh/Eff_facial
+    Index: 4
+    Weight: 100
+  - RelativePath: Mesh/Mesh_Face
+    Index: 4
+    Weight: 30.5
+  - RelativePath: Mesh/Mesh_Face
+    Index: 6
+    Weight: 10.6
+  - RelativePath: Mesh/Mesh_Face
+    Index: 9
+    Weight: 2.91
+  - RelativePath: Mesh/Mesh_Face
+    Index: 12
+    Weight: 9.2
+  - RelativePath: Mesh/Mesh_Face
+    Index: 13
+    Weight: 9.2
+  - RelativePath: Mesh/Mesh_Face
+    Index: 18
+    Weight: 100
+  - RelativePath: Mesh/Mesh_Face
+    Index: 21
+    Weight: 39.5
+  - RelativePath: Mesh/Mesh_Face
+    Index: 23
+    Weight: 41.4
+  - RelativePath: Mesh/Mesh_Face
+    Index: 33
+    Weight: 60.3
+  MaterialValues: []
+  IsBinary: 0

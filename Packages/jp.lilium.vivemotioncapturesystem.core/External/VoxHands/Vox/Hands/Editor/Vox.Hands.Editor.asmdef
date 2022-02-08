@@ -1,0 +1,17 @@
+{
+    "name": "Vox.Hands.Editor",
+    "references": [
+        "GUID:a13924bed23861743b925b323812704d"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

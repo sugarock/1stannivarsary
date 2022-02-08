@@ -1,0 +1,14 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <uie:Toolbar style="flex-direction: row;">
+        <Style src="CameraControlWindow.uss" />
+        <ui:Toggle label="LiveUpdate Enabled" binding-path="enableLiveUpdate" name="live-update-toggle2" />
+        <uie:ToolbarSpacer style="flex-grow: 1;" />
+        <uie:ToolbarButton text="Refresh" name="reflesh-button" />
+    </uie:Toolbar>
+    <ui:ScrollView name="view">
+        <Style src="CameraControlWindow.uss" />
+        <uie:PropertyField name="cameras" />
+        <uie:PropertyField name="targets" />
+        <uie:PropertyField name="directors" />
+    </ui:ScrollView>
+</ui:UXML>

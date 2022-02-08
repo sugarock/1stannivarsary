@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a1e25fcb6c75df74b903ba1e8a9b95a9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - faceAvatar: {fileID: 11400000, guid: 299ddec19ea9d524f99f5ea80a6126c0, type: 2}
+  - blendShapeAvatar: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

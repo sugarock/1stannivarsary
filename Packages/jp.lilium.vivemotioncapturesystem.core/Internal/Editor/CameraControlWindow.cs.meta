@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 14ef5488073185346b1c87987d606594
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - rootVisualTreeAsset: {fileID: 9197481963319205126, guid: 65665d3a185459d4bab47e36e6cdf660,
+      type: 3}
+  - cameraTemplateAsset: {instanceID: 0}
+  - sceneTemplateAsset: {fileID: 9197481963319205126, guid: 39e6d4bec562d5241ba79dd8926199c5,
+      type: 3}
+  - cameraCharacterTemplateAsset: {fileID: 9197481963319205126, guid: 032bae1be99716345a14d685073bcfd6,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

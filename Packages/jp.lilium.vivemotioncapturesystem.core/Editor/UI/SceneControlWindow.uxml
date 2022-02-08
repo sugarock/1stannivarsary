@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:VisualElement style="flex-grow: 1;">
+        <Style src="CameraControlWindow.uss" />
+        <ui:ListView name="scenes-list" style="flex-grow: 1;">
+            <ui:Button text="Green Back" style="flex-grow: 1; flex-shrink: 1;" />
+            <ui:Button text="Environment A" style="flex-grow: 1; flex-shrink: 1;" />
+        </ui:ListView>
+    </ui:VisualElement>
+</ui:UXML>

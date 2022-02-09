@@ -78,30 +78,30 @@ Material:
     m_Floats:
     - _BumpScale: 1
     - _ConeLeghth: 44.3
-    - _ConeLength: 1.29
-    - _ConeWidth: -0.021
+    - _ConeLength: 2.26
+    - _ConeWidth: 0.01
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
-    - _Divide: 9.3
+    - _Divide: 12.9
     - _DividePower: 0.079
-    - _DivideScroll: -1.9
+    - _DivideScroll: -1.5
     - _DstBlend: 0
     - _Flat: 0.565
     - _Frat: 0
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _GradHeight: 0
+    - _GradHeight: -5.82
     - _GradOn: 0
-    - _GradPower: 1
-    - _Intensity: 0.7
+    - _GradPower: 0
+    - _Intensity: 2.21
     - _LightIndex: 1
     - _Metallic: 0
     - _Mode: 0
     - _NoisePower: 1
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _RimPower: 3.87
+    - _RimPower: 5.77
     - _Rotate: 0
     - _SliderOn: 0
     - _SmoothnessTextureChannel: 0

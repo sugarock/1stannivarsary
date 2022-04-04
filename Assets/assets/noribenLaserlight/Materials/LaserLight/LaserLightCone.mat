@@ -60,7 +60,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _Beams: 6
+    - _Beams: 19
     - _BrightnessClamp: 1
     - _BumpScale: 1
     - _Chase: -0.54
@@ -95,14 +95,14 @@ Material:
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _RandomFlash: 0.157
-    - _Scroll: 0
+    - _Scroll: 0.06
     - _SmoothnessTextureChannel: 0
     - _Soft: 78.9
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _SwingSpeed: 0.599
     - _SwingWidth: 0.288
-    - _Thickness: 0.6
+    - _Thickness: 0.9
     - _Transparency: 0
     - _Triangle: 1
     - _UVSec: 0
